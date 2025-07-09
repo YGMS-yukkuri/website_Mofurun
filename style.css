@@ -1,0 +1,56 @@
+.about{
+    display: flex;
+    margin:20px 60px;
+}
+.about div{
+    margin: 5px;
+}
+.about-mofurun{
+    width: 30%;
+    background-color: #fff5cc;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+.about-mofurun div{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.about-mofurun p{
+    display: block;
+}
+.about-mofurun h1{
+    background-color: rgb(255, 207, 255);
+    border-radius: 30px;
+    padding: 10px 30px;
+}
+.about-mofurun img{
+    width: 50%;
+}
+.about-mahopuri{
+    width: 40%;
+    background-color: #fff5cc;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+.about-mahopuri h1{
+    background-color: rgb(255, 207, 255);
+    border-radius: 30px;
+    padding: 10px 30px;
+}
+.about-mahopuri div{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+.about-mahopuri img{
+    width: 70%;
+}
